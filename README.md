@@ -1,2 +1,2 @@
 # DataAnalysis_test
-Use Anaconda ()
+Use Anaconda (Jupyter)
