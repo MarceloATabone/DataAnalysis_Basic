@@ -1,0 +1,5 @@
+Empresa que vende roupas. 
+Tem 5 lojas.
+Está querendo aumentar as vendas.
+Informações disponíveis: Base de dados em xlsx.
+
